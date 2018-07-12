@@ -2,5 +2,5 @@
 
 // test
 module.exports = (a) => {
-  return a * a * a;
+  return a * a;
 };
